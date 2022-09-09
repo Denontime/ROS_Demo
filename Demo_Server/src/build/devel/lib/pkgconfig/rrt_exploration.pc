@@ -1,0 +1,8 @@
+prefix=/home/ros/Code/Demo_ws/src/build/devel
+
+Name: rrt_exploration
+Description: Description of rrt_exploration
+Version: 1.0.0
+Cflags: -I/home/ros/Code/Demo_ws/src/build/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

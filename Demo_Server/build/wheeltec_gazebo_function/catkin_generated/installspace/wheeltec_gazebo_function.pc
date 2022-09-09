@@ -1,0 +1,8 @@
+prefix=/home/ros/Code/Demo_ws/install
+
+Name: wheeltec_gazebo_function
+Description: Description of wheeltec_gazebo_function
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

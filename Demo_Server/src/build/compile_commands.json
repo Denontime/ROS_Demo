@@ -1,0 +1,1037 @@
+[
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/gtest/googlemock",
+  "command": "/usr/bin/g++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/gtest/googlemock",
+  "command": "/usr/bin/g++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/gtest/googlemock",
+  "command": "/usr/bin/g++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/gtest/googlemock",
+  "command": "/usr/bin/g++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/__/googletest/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/gtest/googlemock",
+  "command": "/usr/bin/g++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/gtest/googlemock/gtest",
+  "command": "/usr/bin/g++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/gtest/googlemock/gtest",
+  "command": "/usr/bin/g++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/world_canvas_msgs",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"world_canvas_msgs\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/save.dir/src/save.cpp.o -c /home/ros/Code/Demo_ws/src/world_canvas_msgs/src/save.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/world_canvas_msgs/src/save.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/map_server",
+  "command": "/usr/bin/g++  -DHAVE_YAMLCPP_GT_0_5_0 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"map_server\\\" -Dmap_server_image_loader_EXPORTS -I/home/ros/Code/Demo_ws/src/navigation-melodic/map_server/include -I/usr/include/bullet -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/SDL  -g -fPIC   -o CMakeFiles/map_server_image_loader.dir/src/image_loader.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/map_server/src/image_loader.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/map_server/src/image_loader.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/map_server",
+  "command": "/usr/bin/g++  -DHAVE_YAMLCPP_GT_0_5_0 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"map_server\\\" -I/home/ros/Code/Demo_ws/src/navigation-melodic/map_server/include -I/usr/include/bullet -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/SDL  -g   -o CMakeFiles/map_server.dir/src/main.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/map_server/src/main.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/map_server/src/main.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/map_server",
+  "command": "/usr/bin/g++  -DHAVE_YAMLCPP_GT_0_5_0 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"map_server\\\" -I/home/ros/Code/Demo_ws/src/navigation-melodic/map_server/include -I/usr/include/bullet -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/SDL -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/rtest.dir/test/rtest.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/map_server/test/rtest.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/map_server/test/rtest.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/map_server",
+  "command": "/usr/bin/g++  -DHAVE_YAMLCPP_GT_0_5_0 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"map_server\\\" -I/home/ros/Code/Demo_ws/src/navigation-melodic/map_server/include -I/usr/include/bullet -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/SDL -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/rtest.dir/test/test_constants.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/map_server/test/test_constants.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/map_server/test/test_constants.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/map_server",
+  "command": "/usr/bin/g++  -DHAVE_YAMLCPP_GT_0_5_0 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"map_server\\\" -I/home/ros/Code/Demo_ws/src/navigation-melodic/map_server/include -I/usr/include/bullet -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/SDL  -g   -o CMakeFiles/map_server-map_saver.dir/src/map_saver.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/map_server/src/map_saver.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/map_server/src/map_saver.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/map_server",
+  "command": "/usr/bin/g++  -DHAVE_YAMLCPP_GT_0_5_0 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"map_server\\\" -I/home/ros/Code/Demo_ws/src/navigation-melodic/map_server/include -I/usr/include/bullet -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/SDL -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/map_server_utest.dir/test/utest.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/map_server/test/utest.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/map_server/test/utest.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/map_server",
+  "command": "/usr/bin/g++  -DHAVE_YAMLCPP_GT_0_5_0 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"map_server\\\" -I/home/ros/Code/Demo_ws/src/navigation-melodic/map_server/include -I/usr/include/bullet -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/SDL -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/map_server_utest.dir/test/test_constants.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/map_server/test/test_constants.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/map_server/test/test_constants.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/lsm10_v2",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"lsm10_v2\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/cmake/cfgbuild.cmake -I/home/ros/Code/Demo_ws/src/lsm10_v2/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11 -O3 -g   -o CMakeFiles/lsm10_v2.dir/src/lsiosr.cpp.o -c /home/ros/Code/Demo_ws/src/lsm10_v2/src/lsiosr.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/lsm10_v2/src/lsiosr.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/lsm10_v2",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"lsm10_v2\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/cmake/cfgbuild.cmake -I/home/ros/Code/Demo_ws/src/lsm10_v2/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11 -O3 -g   -o CMakeFiles/lsm10_v2.dir/src/lsm10.cpp.o -c /home/ros/Code/Demo_ws/src/lsm10_v2/src/lsm10.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/lsm10_v2/src/lsm10.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/lsn10",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"lsn10\\\" -I/home/ros/Code/Demo_ws/src/lsn10/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++14 -std=gnu++14 -o CMakeFiles/lsn10.dir/src/lsiosr.cpp.o -c /home/ros/Code/Demo_ws/src/lsn10/src/lsiosr.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/lsn10/src/lsiosr.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/lsn10",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"lsn10\\\" -I/home/ros/Code/Demo_ws/src/lsn10/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++14 -std=gnu++14 -o CMakeFiles/lsn10.dir/src/lsn10.cpp.o -c /home/ros/Code/Demo_ws/src/lsn10/src/lsn10.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/lsn10/src/lsn10.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ros_astra_camera",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"astra_camera\\\" -Dlibuvc_VERSION_MAJOR=0 -Dlibuvc_VERSION_MINOR=0 -Dlibuvc_VERSION_PATCH=6 -Dlibuvc_camera_nodelet_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include/openni2 -I/usr/local/include/libuvc  -g -fPIC   -o CMakeFiles/libuvc_camera_nodelet.dir/src/libuvc_camera/nodelet.cpp.o -c /home/ros/Code/Demo_ws/src/ros_astra_camera/src/libuvc_camera/nodelet.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/ros_astra_camera/src/libuvc_camera/nodelet.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ros_astra_camera",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"astra_camera\\\" -Dlibuvc_VERSION_MAJOR=0 -Dlibuvc_VERSION_MINOR=0 -Dlibuvc_VERSION_PATCH=6 -Dlibuvc_camera_nodelet_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include/openni2 -I/usr/local/include/libuvc  -g -fPIC   -o CMakeFiles/libuvc_camera_nodelet.dir/src/libuvc_camera/camera_driver.cpp.o -c /home/ros/Code/Demo_ws/src/ros_astra_camera/src/libuvc_camera/camera_driver.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/ros_astra_camera/src/libuvc_camera/camera_driver.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ros_astra_camera",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"astra_camera\\\" -Dlibuvc_VERSION_MAJOR=0 -Dlibuvc_VERSION_MINOR=0 -Dlibuvc_VERSION_PATCH=6 -Dlibuvc_camera_nodelet_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include/openni2 -I/usr/local/include/libuvc  -g -fPIC   -o CMakeFiles/libuvc_camera_nodelet.dir/src/astra_device_type.cpp.o -c /home/ros/Code/Demo_ws/src/ros_astra_camera/src/astra_device_type.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/ros_astra_camera/src/astra_device_type.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ros_astra_camera",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"astra_camera\\\" -Dlibuvc_VERSION_MAJOR=0 -Dlibuvc_VERSION_MINOR=0 -Dlibuvc_VERSION_PATCH=6 -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include/openni2 -I/usr/local/include/libuvc  -g   -o CMakeFiles/camera_node.dir/src/libuvc_camera/main.cpp.o -c /home/ros/Code/Demo_ws/src/ros_astra_camera/src/libuvc_camera/main.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/ros_astra_camera/src/libuvc_camera/main.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ros_astra_camera",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"astra_camera\\\" -Dlibuvc_VERSION_MAJOR=0 -Dlibuvc_VERSION_MINOR=0 -Dlibuvc_VERSION_PATCH=6 -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include/openni2 -I/usr/local/include/libuvc  -g   -o CMakeFiles/camera_node.dir/src/libuvc_camera/camera_driver.cpp.o -c /home/ros/Code/Demo_ws/src/ros_astra_camera/src/libuvc_camera/camera_driver.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/ros_astra_camera/src/libuvc_camera/camera_driver.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ros_astra_camera",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"astra_camera\\\" -Dlibuvc_VERSION_MAJOR=0 -Dlibuvc_VERSION_MINOR=0 -Dlibuvc_VERSION_PATCH=6 -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include/openni2 -I/usr/local/include/libuvc  -g   -o CMakeFiles/camera_node.dir/src/astra_device_type.cpp.o -c /home/ros/Code/Demo_ws/src/ros_astra_camera/src/astra_device_type.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/ros_astra_camera/src/astra_device_type.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ros_astra_camera",
+  "command": "/usr/bin/gcc -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"astra_camera\\\" -Dlibuvc_VERSION_MAJOR=0 -Dlibuvc_VERSION_MINOR=0 -Dlibuvc_VERSION_PATCH=6 -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include/openni2 -I/usr/local/include/libuvc  -g   -o CMakeFiles/astra_usb_reset.dir/src/usb_reset.c.o   -c /home/ros/Code/Demo_ws/src/ros_astra_camera/src/usb_reset.c",
+  "file": "/home/ros/Code/Demo_ws/src/ros_astra_camera/src/usb_reset.c"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ros_astra_camera",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"astra_camera\\\" -Dlibuvc_VERSION_MAJOR=0 -Dlibuvc_VERSION_MINOR=0 -Dlibuvc_VERSION_PATCH=6 -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include/openni2 -I/usr/local/include/libuvc  -g   -o CMakeFiles/astra_list_devices.dir/src/list_devices.cpp.o -c /home/ros/Code/Demo_ws/src/ros_astra_camera/src/list_devices.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/ros_astra_camera/src/list_devices.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ros_astra_camera",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"astra_camera\\\" -Dastra_camera_nodelet_EXPORTS -Dlibuvc_VERSION_MAJOR=0 -Dlibuvc_VERSION_MINOR=0 -Dlibuvc_VERSION_PATCH=6 -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include/openni2 -I/usr/local/include/libuvc  -g -fPIC   -o CMakeFiles/astra_camera_nodelet.dir/ros/astra_camera_nodelet.cpp.o -c /home/ros/Code/Demo_ws/src/ros_astra_camera/ros/astra_camera_nodelet.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/ros_astra_camera/ros/astra_camera_nodelet.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ros_astra_camera",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"astra_camera\\\" -Dastra_driver_lib_EXPORTS -Dlibuvc_VERSION_MAJOR=0 -Dlibuvc_VERSION_MINOR=0 -Dlibuvc_VERSION_PATCH=6 -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include/openni2 -I/usr/local/include/libuvc  -g -fPIC   -o CMakeFiles/astra_driver_lib.dir/src/astra_driver.cpp.o -c /home/ros/Code/Demo_ws/src/ros_astra_camera/src/astra_driver.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/ros_astra_camera/src/astra_driver.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ros_astra_camera",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"astra_camera\\\" -Dastra_driver_lib_EXPORTS -Dlibuvc_VERSION_MAJOR=0 -Dlibuvc_VERSION_MINOR=0 -Dlibuvc_VERSION_PATCH=6 -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include/openni2 -I/usr/local/include/libuvc  -g -fPIC   -o CMakeFiles/astra_driver_lib.dir/src/astra_device_type.cpp.o -c /home/ros/Code/Demo_ws/src/ros_astra_camera/src/astra_device_type.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/ros_astra_camera/src/astra_device_type.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ros_astra_camera",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"astra_camera\\\" -Dastra_wrapper_EXPORTS -Dlibuvc_VERSION_MAJOR=0 -Dlibuvc_VERSION_MINOR=0 -Dlibuvc_VERSION_PATCH=6 -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include/openni2 -I/usr/local/include/libuvc  -g -fPIC   -o CMakeFiles/astra_wrapper.dir/src/astra_convert.cpp.o -c /home/ros/Code/Demo_ws/src/ros_astra_camera/src/astra_convert.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/ros_astra_camera/src/astra_convert.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ros_astra_camera",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"astra_camera\\\" -Dastra_wrapper_EXPORTS -Dlibuvc_VERSION_MAJOR=0 -Dlibuvc_VERSION_MINOR=0 -Dlibuvc_VERSION_PATCH=6 -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include/openni2 -I/usr/local/include/libuvc  -g -fPIC   -o CMakeFiles/astra_wrapper.dir/src/astra_device.cpp.o -c /home/ros/Code/Demo_ws/src/ros_astra_camera/src/astra_device.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/ros_astra_camera/src/astra_device.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ros_astra_camera",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"astra_camera\\\" -Dastra_wrapper_EXPORTS -Dlibuvc_VERSION_MAJOR=0 -Dlibuvc_VERSION_MINOR=0 -Dlibuvc_VERSION_PATCH=6 -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include/openni2 -I/usr/local/include/libuvc  -g -fPIC   -o CMakeFiles/astra_wrapper.dir/src/astra_device_info.cpp.o -c /home/ros/Code/Demo_ws/src/ros_astra_camera/src/astra_device_info.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/ros_astra_camera/src/astra_device_info.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ros_astra_camera",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"astra_camera\\\" -Dastra_wrapper_EXPORTS -Dlibuvc_VERSION_MAJOR=0 -Dlibuvc_VERSION_MINOR=0 -Dlibuvc_VERSION_PATCH=6 -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include/openni2 -I/usr/local/include/libuvc  -g -fPIC   -o CMakeFiles/astra_wrapper.dir/src/astra_timer_filter.cpp.o -c /home/ros/Code/Demo_ws/src/ros_astra_camera/src/astra_timer_filter.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/ros_astra_camera/src/astra_timer_filter.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ros_astra_camera",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"astra_camera\\\" -Dastra_wrapper_EXPORTS -Dlibuvc_VERSION_MAJOR=0 -Dlibuvc_VERSION_MINOR=0 -Dlibuvc_VERSION_PATCH=6 -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include/openni2 -I/usr/local/include/libuvc  -g -fPIC   -o CMakeFiles/astra_wrapper.dir/src/astra_frame_listener.cpp.o -c /home/ros/Code/Demo_ws/src/ros_astra_camera/src/astra_frame_listener.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/ros_astra_camera/src/astra_frame_listener.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ros_astra_camera",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"astra_camera\\\" -Dastra_wrapper_EXPORTS -Dlibuvc_VERSION_MAJOR=0 -Dlibuvc_VERSION_MINOR=0 -Dlibuvc_VERSION_PATCH=6 -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include/openni2 -I/usr/local/include/libuvc  -g -fPIC   -o CMakeFiles/astra_wrapper.dir/src/astra_device_manager.cpp.o -c /home/ros/Code/Demo_ws/src/ros_astra_camera/src/astra_device_manager.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/ros_astra_camera/src/astra_device_manager.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ros_astra_camera",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"astra_camera\\\" -Dastra_wrapper_EXPORTS -Dlibuvc_VERSION_MAJOR=0 -Dlibuvc_VERSION_MINOR=0 -Dlibuvc_VERSION_PATCH=6 -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include/openni2 -I/usr/local/include/libuvc  -g -fPIC   -o CMakeFiles/astra_wrapper.dir/src/astra_exception.cpp.o -c /home/ros/Code/Demo_ws/src/ros_astra_camera/src/astra_exception.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/ros_astra_camera/src/astra_exception.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ros_astra_camera",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"astra_camera\\\" -Dastra_wrapper_EXPORTS -Dlibuvc_VERSION_MAJOR=0 -Dlibuvc_VERSION_MINOR=0 -Dlibuvc_VERSION_PATCH=6 -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include/openni2 -I/usr/local/include/libuvc  -g -fPIC   -o CMakeFiles/astra_wrapper.dir/src/astra_video_mode.cpp.o -c /home/ros/Code/Demo_ws/src/ros_astra_camera/src/astra_video_mode.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/ros_astra_camera/src/astra_video_mode.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ros_astra_camera",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"astra_camera\\\" -Dastra_wrapper_EXPORTS -Dlibuvc_VERSION_MAJOR=0 -Dlibuvc_VERSION_MINOR=0 -Dlibuvc_VERSION_PATCH=6 -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include/openni2 -I/usr/local/include/libuvc  -g -fPIC   -o CMakeFiles/astra_wrapper.dir/src/astra_device_type.cpp.o -c /home/ros/Code/Demo_ws/src/ros_astra_camera/src/astra_device_type.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/ros_astra_camera/src/astra_device_type.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ros_astra_camera",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"astra_camera\\\" -Dlibuvc_VERSION_MAJOR=0 -Dlibuvc_VERSION_MINOR=0 -Dlibuvc_VERSION_PATCH=6 -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include/openni2 -I/usr/local/include/libuvc  -g   -o CMakeFiles/astra_test_wrapper.dir/test/test_wrapper.cpp.o -c /home/ros/Code/Demo_ws/src/ros_astra_camera/test/test_wrapper.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/ros_astra_camera/test/test_wrapper.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ros_astra_camera",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"astra_camera\\\" -Dlibuvc_VERSION_MAJOR=0 -Dlibuvc_VERSION_MINOR=0 -Dlibuvc_VERSION_PATCH=6 -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/ros/Code/Demo_ws/src/ros_astra_camera/include/openni2 -I/usr/local/include/libuvc  -g   -o CMakeFiles/astra_camera_node.dir/ros/astra_camera_node.cpp.o -c /home/ros/Code/Demo_ws/src/ros_astra_camera/ros/astra_camera_node.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/ros_astra_camera/ros/astra_camera_node.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/depthimage_to_laserscan-melodic-devel",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"depthimage_to_laserscan\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/depthimage_to_laserscan-melodic-devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/libtest.dir/test/DepthImageToLaserScanTest.cpp.o -c /home/ros/Code/Demo_ws/src/depthimage_to_laserscan-melodic-devel/test/DepthImageToLaserScanTest.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/depthimage_to_laserscan-melodic-devel/test/DepthImageToLaserScanTest.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/depthimage_to_laserscan-melodic-devel",
+  "command": "/usr/bin/g++  -DDepthImageToLaserScanNodelet_EXPORTS -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"depthimage_to_laserscan\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/depthimage_to_laserscan-melodic-devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv  -g -fPIC   -o CMakeFiles/DepthImageToLaserScanNodelet.dir/src/DepthImageToLaserScanNodelet.cpp.o -c /home/ros/Code/Demo_ws/src/depthimage_to_laserscan-melodic-devel/src/DepthImageToLaserScanNodelet.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/depthimage_to_laserscan-melodic-devel/src/DepthImageToLaserScanNodelet.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/depthimage_to_laserscan-melodic-devel",
+  "command": "/usr/bin/g++  -DDepthImageToLaserScanROS_EXPORTS -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"depthimage_to_laserscan\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/depthimage_to_laserscan-melodic-devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv  -g -fPIC   -o CMakeFiles/DepthImageToLaserScanROS.dir/src/DepthImageToLaserScanROS.cpp.o -c /home/ros/Code/Demo_ws/src/depthimage_to_laserscan-melodic-devel/src/DepthImageToLaserScanROS.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/depthimage_to_laserscan-melodic-devel/src/DepthImageToLaserScanROS.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/depthimage_to_laserscan-melodic-devel",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"depthimage_to_laserscan\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/depthimage_to_laserscan-melodic-devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv  -g   -o CMakeFiles/depthimage_to_laserscan.dir/src/depthimage_to_laserscan.cpp.o -c /home/ros/Code/Demo_ws/src/depthimage_to_laserscan-melodic-devel/src/depthimage_to_laserscan.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/depthimage_to_laserscan-melodic-devel/src/depthimage_to_laserscan.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/depthimage_to_laserscan-melodic-devel",
+  "command": "/usr/bin/g++  -DDepthImageToLaserScan_EXPORTS -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"depthimage_to_laserscan\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/depthimage_to_laserscan-melodic-devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv  -g -fPIC   -o CMakeFiles/DepthImageToLaserScan.dir/src/DepthImageToLaserScan.cpp.o -c /home/ros/Code/Demo_ws/src/depthimage_to_laserscan-melodic-devel/src/DepthImageToLaserScan.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/depthimage_to_laserscan-melodic-devel/src/DepthImageToLaserScan.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/depthimage_to_laserscan-melodic-devel",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"depthimage_to_laserscan\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/depthimage_to_laserscan-melodic-devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv  -g   -o CMakeFiles/test_dtl.dir/test/depthimage_to_laserscan_rostest.cpp.o -c /home/ros/Code/Demo_ws/src/depthimage_to_laserscan-melodic-devel/test/depthimage_to_laserscan_rostest.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/depthimage_to_laserscan-melodic-devel/test/depthimage_to_laserscan_rostest.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/kcf_track",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"kcf_track\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv -I/home/ros/Code/Demo_ws/src/build -I/home/ros/Code/Demo_ws/src/src  -g   -std=c++0x -O3 -o CMakeFiles/kcf_node.dir/src/fhog.cpp.o -c /home/ros/Code/Demo_ws/src/kcf_track/src/fhog.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/kcf_track/src/fhog.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/kcf_track",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"kcf_track\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv -I/home/ros/Code/Demo_ws/src/build -I/home/ros/Code/Demo_ws/src/src  -g   -std=c++0x -O3 -o CMakeFiles/kcf_node.dir/src/kcftracker.cpp.o -c /home/ros/Code/Demo_ws/src/kcf_track/src/kcftracker.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/kcf_track/src/kcftracker.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/kcf_track",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"kcf_track\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv -I/home/ros/Code/Demo_ws/src/build -I/home/ros/Code/Demo_ws/src/src  -g   -std=c++0x -O3 -o CMakeFiles/kcf_node.dir/src/runtracker.cpp.o -c /home/ros/Code/Demo_ws/src/kcf_track/src/runtracker.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/kcf_track/src/runtracker.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/rplidar_ros/./sdk/include -I/home/ros/Code/Demo_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/src/node.cpp.o -c /home/ros/Code/Demo_ws/src/rplidar_ros/src/node.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/rplidar_ros/src/node.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/rplidar_ros/./sdk/include -I/home/ros/Code/Demo_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/sdk/src/arch/linux/net_serial.cpp.o -c /home/ros/Code/Demo_ws/src/rplidar_ros/sdk/src/arch/linux/net_serial.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/rplidar_ros/sdk/src/arch/linux/net_serial.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/rplidar_ros/./sdk/include -I/home/ros/Code/Demo_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/sdk/src/arch/linux/net_socket.cpp.o -c /home/ros/Code/Demo_ws/src/rplidar_ros/sdk/src/arch/linux/net_socket.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/rplidar_ros/sdk/src/arch/linux/net_socket.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/rplidar_ros/./sdk/include -I/home/ros/Code/Demo_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/sdk/src/arch/linux/timer.cpp.o -c /home/ros/Code/Demo_ws/src/rplidar_ros/sdk/src/arch/linux/timer.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/rplidar_ros/sdk/src/arch/linux/timer.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/rplidar_ros/./sdk/include -I/home/ros/Code/Demo_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/sdk/src/hal/thread.cpp.o -c /home/ros/Code/Demo_ws/src/rplidar_ros/sdk/src/hal/thread.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/rplidar_ros/sdk/src/hal/thread.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/rplidar_ros/./sdk/include -I/home/ros/Code/Demo_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/sdk/src/rplidar_driver.cpp.o -c /home/ros/Code/Demo_ws/src/rplidar_ros/sdk/src/rplidar_driver.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/rplidar_ros/sdk/src/rplidar_driver.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/rplidar_ros/./sdk/include -I/home/ros/Code/Demo_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/sdk/src/sl_crc.cpp.o -c /home/ros/Code/Demo_ws/src/rplidar_ros/sdk/src/sl_crc.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/rplidar_ros/sdk/src/sl_crc.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/rplidar_ros/./sdk/include -I/home/ros/Code/Demo_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/sdk/src/sl_lidar_driver.cpp.o -c /home/ros/Code/Demo_ws/src/rplidar_ros/sdk/src/sl_lidar_driver.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/rplidar_ros/sdk/src/sl_lidar_driver.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/rplidar_ros/./sdk/include -I/home/ros/Code/Demo_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/sdk/src/sl_serial_channel.cpp.o -c /home/ros/Code/Demo_ws/src/rplidar_ros/sdk/src/sl_serial_channel.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/rplidar_ros/sdk/src/sl_serial_channel.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/rplidar_ros/./sdk/include -I/home/ros/Code/Demo_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/sdk/src/sl_tcp_channel.cpp.o -c /home/ros/Code/Demo_ws/src/rplidar_ros/sdk/src/sl_tcp_channel.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/rplidar_ros/sdk/src/sl_tcp_channel.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/rplidar_ros/./sdk/include -I/home/ros/Code/Demo_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/sdk/src/sl_udp_channel.cpp.o -c /home/ros/Code/Demo_ws/src/rplidar_ros/sdk/src/sl_udp_channel.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/rplidar_ros/sdk/src/sl_udp_channel.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/rplidar_ros/./sdk/include -I/home/ros/Code/Demo_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNodeClient.dir/src/client.cpp.o -c /home/ros/Code/Demo_ws/src/rplidar_ros/src/client.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/rplidar_ros/src/client.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/simple_follower",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_follower\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/avoidance.dir/src/avoidance.cpp.o -c /home/ros/Code/Demo_ws/src/simple_follower/src/avoidance.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/simple_follower/src/avoidance.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/simple_follower",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"simple_follower\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/obs_avo.dir/src/obs_avo.cpp.o -c /home/ros/Code/Demo_ws/src/simple_follower/src/obs_avo.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/simple_follower/src/obs_avo.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ldlidar_14",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ldlidar_14\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -g   -D\"USE_SLBF\" -o CMakeFiles/ldlidar.dir/src/cmd_interface_linux.cpp.o -c /home/ros/Code/Demo_ws/src/ldlidar_14/src/cmd_interface_linux.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/ldlidar_14/src/cmd_interface_linux.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ldlidar_14",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ldlidar_14\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -g   -D\"USE_SLBF\" -o CMakeFiles/ldlidar.dir/src/lipkg.cpp.o -c /home/ros/Code/Demo_ws/src/ldlidar_14/src/lipkg.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/ldlidar_14/src/lipkg.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ldlidar_14",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ldlidar_14\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -g   -D\"USE_SLBF\" -o CMakeFiles/ldlidar.dir/src/main.cpp.o -c /home/ros/Code/Demo_ws/src/ldlidar_14/src/main.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/ldlidar_14/src/main.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ldlidar_14",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ldlidar_14\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -g   -D\"USE_SLBF\" -o CMakeFiles/ldlidar.dir/src/slbf.cpp.o -c /home/ros/Code/Demo_ws/src/ldlidar_14/src/slbf.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/ldlidar_14/src/slbf.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/ldlidar_14",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"ldlidar_14\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -g   -D\"USE_SLBF\" -o CMakeFiles/ldlidar.dir/src/transform.cpp.o -c /home/ros/Code/Demo_ws/src/ldlidar_14/src/transform.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/ldlidar_14/src/transform.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/robot_pose_ekf",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"robot_pose_ekf\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/opt/ros/melodic/include -I/home/ros/Code/Demo_ws/src/robot_pose_ekf/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/robot_pose_ekf.dir/src/odom_estimation.cpp.o -c /home/ros/Code/Demo_ws/src/robot_pose_ekf/src/odom_estimation.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/robot_pose_ekf/src/odom_estimation.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/robot_pose_ekf",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"robot_pose_ekf\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/opt/ros/melodic/include -I/home/ros/Code/Demo_ws/src/robot_pose_ekf/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/robot_pose_ekf.dir/src/nonlinearanalyticconditionalgaussianodo.cpp.o -c /home/ros/Code/Demo_ws/src/robot_pose_ekf/src/nonlinearanalyticconditionalgaussianodo.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/robot_pose_ekf/src/nonlinearanalyticconditionalgaussianodo.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/robot_pose_ekf",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"robot_pose_ekf\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/opt/ros/melodic/include -I/home/ros/Code/Demo_ws/src/robot_pose_ekf/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/robot_pose_ekf.dir/src/odom_estimation_node.cpp.o -c /home/ros/Code/Demo_ws/src/robot_pose_ekf/src/odom_estimation_node.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/robot_pose_ekf/src/odom_estimation_node.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/robot_pose_ekf",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"robot_pose_ekf\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/opt/ros/melodic/include -I/home/ros/Code/Demo_ws/src/robot_pose_ekf/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/test_robot_pose_ekf_zero_covariance.dir/test/test_robot_pose_ekf_zero_covariance.cpp.o -c /home/ros/Code/Demo_ws/src/robot_pose_ekf/test/test_robot_pose_ekf_zero_covariance.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/robot_pose_ekf/test/test_robot_pose_ekf_zero_covariance.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/robot_pose_ekf",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"robot_pose_ekf\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/opt/ros/melodic/include -I/home/ros/Code/Demo_ws/src/robot_pose_ekf/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/test_robot_pose_ekf.dir/test/test_robot_pose_ekf.cpp.o -c /home/ros/Code/Demo_ws/src/robot_pose_ekf/test/test_robot_pose_ekf.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/robot_pose_ekf/test/test_robot_pose_ekf.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/rrt_exploration",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rrt_exploration\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/rrt_exploration/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/wait_for_fin.dir/src/wait_for_fin.cpp.o -c /home/ros/Code/Demo_ws/src/rrt_exploration/src/wait_for_fin.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/rrt_exploration/src/wait_for_fin.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/rrt_exploration",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rrt_exploration\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/rrt_exploration/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/local_rrt_detector.dir/src/local_rrt_detector.cpp.o -c /home/ros/Code/Demo_ws/src/rrt_exploration/src/local_rrt_detector.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/rrt_exploration/src/local_rrt_detector.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/rrt_exploration",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rrt_exploration\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/rrt_exploration/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/local_rrt_detector.dir/src/functions.cpp.o -c /home/ros/Code/Demo_ws/src/rrt_exploration/src/functions.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/rrt_exploration/src/functions.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/rrt_exploration",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rrt_exploration\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/rrt_exploration/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/local_rrt_detector.dir/src/mtrand.cpp.o -c /home/ros/Code/Demo_ws/src/rrt_exploration/src/mtrand.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/rrt_exploration/src/mtrand.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/rrt_exploration",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rrt_exploration\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/rrt_exploration/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/global_rrt_detector.dir/src/global_rrt_detector.cpp.o -c /home/ros/Code/Demo_ws/src/rrt_exploration/src/global_rrt_detector.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/rrt_exploration/src/global_rrt_detector.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/rrt_exploration",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rrt_exploration\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/rrt_exploration/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/global_rrt_detector.dir/src/functions.cpp.o -c /home/ros/Code/Demo_ws/src/rrt_exploration/src/functions.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/rrt_exploration/src/functions.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/rrt_exploration",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rrt_exploration\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/rrt_exploration/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/global_rrt_detector.dir/src/mtrand.cpp.o -c /home/ros/Code/Demo_ws/src/rrt_exploration/src/mtrand.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/rrt_exploration/src/mtrand.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/amcl",
+  "command": "/usr/bin/g++  -DHAVE_DRAND48 -DHAVE_UNISTD_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"amcl\\\" -Damcl_sensors_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/include  -g -fPIC   -std=gnu++11 -o CMakeFiles/amcl_sensors.dir/src/amcl/sensors/amcl_sensor.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/sensors/amcl_sensor.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/sensors/amcl_sensor.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/amcl",
+  "command": "/usr/bin/g++  -DHAVE_DRAND48 -DHAVE_UNISTD_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"amcl\\\" -Damcl_sensors_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/include  -g -fPIC   -std=gnu++11 -o CMakeFiles/amcl_sensors.dir/src/amcl/sensors/amcl_odom.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/sensors/amcl_odom.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/sensors/amcl_odom.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/amcl",
+  "command": "/usr/bin/g++  -DHAVE_DRAND48 -DHAVE_UNISTD_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"amcl\\\" -Damcl_sensors_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/include  -g -fPIC   -std=gnu++11 -o CMakeFiles/amcl_sensors.dir/src/amcl/sensors/amcl_laser.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/sensors/amcl_laser.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/sensors/amcl_laser.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/amcl",
+  "command": "/usr/bin/gcc -DHAVE_DRAND48 -DHAVE_UNISTD_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"amcl\\\" -Damcl_pf_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/include  -g -fPIC   -o CMakeFiles/amcl_pf.dir/src/amcl/pf/pf.c.o   -c /home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/pf/pf.c",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/pf/pf.c"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/amcl",
+  "command": "/usr/bin/gcc -DHAVE_DRAND48 -DHAVE_UNISTD_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"amcl\\\" -Damcl_pf_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/include  -g -fPIC   -o CMakeFiles/amcl_pf.dir/src/amcl/pf/pf_kdtree.c.o   -c /home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/pf/pf_kdtree.c",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/pf/pf_kdtree.c"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/amcl",
+  "command": "/usr/bin/gcc -DHAVE_DRAND48 -DHAVE_UNISTD_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"amcl\\\" -Damcl_pf_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/include  -g -fPIC   -o CMakeFiles/amcl_pf.dir/src/amcl/pf/pf_pdf.c.o   -c /home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/pf/pf_pdf.c",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/pf/pf_pdf.c"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/amcl",
+  "command": "/usr/bin/gcc -DHAVE_DRAND48 -DHAVE_UNISTD_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"amcl\\\" -Damcl_pf_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/include  -g -fPIC   -o CMakeFiles/amcl_pf.dir/src/amcl/pf/pf_vector.c.o   -c /home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/pf/pf_vector.c",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/pf/pf_vector.c"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/amcl",
+  "command": "/usr/bin/gcc -DHAVE_DRAND48 -DHAVE_UNISTD_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"amcl\\\" -Damcl_pf_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/include  -g -fPIC   -o CMakeFiles/amcl_pf.dir/src/amcl/pf/eig3.c.o   -c /home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/pf/eig3.c",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/pf/eig3.c"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/amcl",
+  "command": "/usr/bin/gcc -DHAVE_DRAND48 -DHAVE_UNISTD_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"amcl\\\" -Damcl_pf_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/include  -g -fPIC   -o CMakeFiles/amcl_pf.dir/src/amcl/pf/pf_draw.c.o   -c /home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/pf/pf_draw.c",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/pf/pf_draw.c"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/amcl",
+  "command": "/usr/bin/gcc -DHAVE_DRAND48 -DHAVE_UNISTD_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"amcl\\\" -Damcl_map_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/include  -g -fPIC   -o CMakeFiles/amcl_map.dir/src/amcl/map/map.c.o   -c /home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/map/map.c",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/map/map.c"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/amcl",
+  "command": "/usr/bin/g++  -DHAVE_DRAND48 -DHAVE_UNISTD_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"amcl\\\" -Damcl_map_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/include  -g -fPIC   -std=gnu++11 -o CMakeFiles/amcl_map.dir/src/amcl/map/map_cspace.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/map/map_cspace.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/map/map_cspace.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/amcl",
+  "command": "/usr/bin/gcc -DHAVE_DRAND48 -DHAVE_UNISTD_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"amcl\\\" -Damcl_map_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/include  -g -fPIC   -o CMakeFiles/amcl_map.dir/src/amcl/map/map_range.c.o   -c /home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/map/map_range.c",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/map/map_range.c"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/amcl",
+  "command": "/usr/bin/gcc -DHAVE_DRAND48 -DHAVE_UNISTD_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"amcl\\\" -Damcl_map_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/include  -g -fPIC   -o CMakeFiles/amcl_map.dir/src/amcl/map/map_store.c.o   -c /home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/map/map_store.c",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/map/map_store.c"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/amcl",
+  "command": "/usr/bin/gcc -DHAVE_DRAND48 -DHAVE_UNISTD_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"amcl\\\" -Damcl_map_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/include  -g -fPIC   -o CMakeFiles/amcl_map.dir/src/amcl/map/map_draw.c.o   -c /home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/map/map_draw.c",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl/map/map_draw.c"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/amcl",
+  "command": "/usr/bin/g++  -DHAVE_DRAND48 -DHAVE_UNISTD_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"amcl\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/include  -g   -std=gnu++11 -o CMakeFiles/amcl.dir/src/amcl_node.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl_node.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/amcl/src/amcl_node.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/fake_localization",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"fake_localization\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g   -o CMakeFiles/fake_localization.dir/fake_localization.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/fake_localization/fake_localization.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/fake_localization/fake_localization.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/turn_on_wheeltec_robot",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"turn_on_wheeltec_robot\\\" -I/home/ros/Code/Demo_ws/src/turn_on_wheeltec_robot/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/ros/Code/Demo_ws/src/turn_on_wheeltec_robot/include/turn_on_wheeltec_robot  -g   -g -std=c++11 -o CMakeFiles/wheeltec_robot_node.dir/src/wheeltec_robot.cpp.o -c /home/ros/Code/Demo_ws/src/turn_on_wheeltec_robot/src/wheeltec_robot.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/turn_on_wheeltec_robot/src/wheeltec_robot.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/turn_on_wheeltec_robot",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"turn_on_wheeltec_robot\\\" -I/home/ros/Code/Demo_ws/src/turn_on_wheeltec_robot/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/ros/Code/Demo_ws/src/turn_on_wheeltec_robot/include/turn_on_wheeltec_robot  -g   -g -std=c++11 -o CMakeFiles/wheeltec_robot_node.dir/src/Quaternion_Solution.cpp.o -c /home/ros/Code/Demo_ws/src/turn_on_wheeltec_robot/src/Quaternion_Solution.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/turn_on_wheeltec_robot/src/Quaternion_Solution.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/unique_identifier/unique_id/tests",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"unique_id\\\" -I/home/ros/Code/Demo_ws/src/unique_identifier/unique_id/include -I/home/ros/Code/Demo_ws/src/build/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/test_unique_id.dir/test_unique_id.cpp.o -c /home/ros/Code/Demo_ws/src/unique_identifier/unique_id/tests/test_unique_id.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/unique_identifier/unique_id/tests/test_unique_id.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/unique_identifier/unique_id/tests",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"unique_id\\\" -I/home/ros/Code/Demo_ws/src/unique_identifier/unique_id/include -I/home/ros/Code/Demo_ws/src/build/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/test_unique_id.dir/second_test_unique_id.cpp.o -c /home/ros/Code/Demo_ws/src/unique_identifier/unique_id/tests/second_test_unique_id.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/unique_identifier/unique_id/tests/second_test_unique_id.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/usb_cam",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"usb_cam\\\" -I/home/ros/Code/Demo_ws/src/usb_cam/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/x86_64-linux-gnu  -g   -o CMakeFiles/usb_cam_node.dir/nodes/usb_cam_node.cpp.o -c /home/ros/Code/Demo_ws/src/usb_cam/nodes/usb_cam_node.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/usb_cam/nodes/usb_cam_node.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/usb_cam",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"usb_cam\\\" -Dusb_cam_EXPORTS -I/home/ros/Code/Demo_ws/src/usb_cam/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/x86_64-linux-gnu  -g -fPIC   -o CMakeFiles/usb_cam.dir/src/usb_cam.cpp.o -c /home/ros/Code/Demo_ws/src/usb_cam/src/usb_cam.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/usb_cam/src/usb_cam.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/voxel_grid",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"voxel_grid\\\" -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/voxel_grid_tests.dir/test/voxel_grid_tests.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/test/voxel_grid_tests.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/test/voxel_grid_tests.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/voxel_grid",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"voxel_grid\\\" -Dvoxel_grid_EXPORTS -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g -fPIC   -o CMakeFiles/voxel_grid.dir/src/voxel_grid.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/src/voxel_grid.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/src/voxel_grid.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/costmap_2d",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"costmap_2d\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/costmap_tester.dir/test/costmap_tester.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test/costmap_tester.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test/costmap_tester.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/costmap_2d",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"costmap_2d\\\" -Dcostmap_2d_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test  -g -fPIC   -o CMakeFiles/costmap_2d.dir/src/array_parser.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/array_parser.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/array_parser.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/costmap_2d",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"costmap_2d\\\" -Dcostmap_2d_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test  -g -fPIC   -o CMakeFiles/costmap_2d.dir/src/costmap_2d.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/costmap_2d.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/costmap_2d.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/costmap_2d",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"costmap_2d\\\" -Dcostmap_2d_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test  -g -fPIC   -o CMakeFiles/costmap_2d.dir/src/observation_buffer.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/observation_buffer.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/observation_buffer.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/costmap_2d",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"costmap_2d\\\" -Dcostmap_2d_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test  -g -fPIC   -o CMakeFiles/costmap_2d.dir/src/layer.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/layer.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/layer.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/costmap_2d",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"costmap_2d\\\" -Dcostmap_2d_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test  -g -fPIC   -o CMakeFiles/costmap_2d.dir/src/layered_costmap.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/layered_costmap.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/layered_costmap.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/costmap_2d",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"costmap_2d\\\" -Dcostmap_2d_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test  -g -fPIC   -o CMakeFiles/costmap_2d.dir/src/costmap_2d_ros.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/costmap_2d_ros.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/costmap_2d_ros.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/costmap_2d",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"costmap_2d\\\" -Dcostmap_2d_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test  -g -fPIC   -o CMakeFiles/costmap_2d.dir/src/costmap_2d_publisher.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/costmap_2d_publisher.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/costmap_2d_publisher.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/costmap_2d",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"costmap_2d\\\" -Dcostmap_2d_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test  -g -fPIC   -o CMakeFiles/costmap_2d.dir/src/costmap_math.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/costmap_math.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/costmap_math.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/costmap_2d",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"costmap_2d\\\" -Dcostmap_2d_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test  -g -fPIC   -o CMakeFiles/costmap_2d.dir/src/footprint.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/footprint.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/footprint.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/costmap_2d",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"costmap_2d\\\" -Dcostmap_2d_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test  -g -fPIC   -o CMakeFiles/costmap_2d.dir/src/costmap_layer.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/costmap_layer.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/costmap_layer.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/costmap_2d",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"costmap_2d\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/array_parser_test.dir/test/array_parser_test.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test/array_parser_test.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test/array_parser_test.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/costmap_2d",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"costmap_2d\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test  -g   -o CMakeFiles/costmap_2d_node.dir/src/costmap_2d_node.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/costmap_2d_node.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/costmap_2d_node.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/costmap_2d",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"costmap_2d\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/static_tests.dir/test/static_tests.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test/static_tests.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test/static_tests.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/costmap_2d",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"costmap_2d\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/inflation_tests.dir/test/inflation_tests.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test/inflation_tests.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test/inflation_tests.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/costmap_2d",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"costmap_2d\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/obstacle_tests.dir/test/obstacle_tests.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test/obstacle_tests.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test/obstacle_tests.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/costmap_2d",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"costmap_2d\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/coordinates_test.dir/test/coordinates_test.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test/coordinates_test.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test/coordinates_test.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/costmap_2d",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"costmap_2d\\\" -Dlayers_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test  -g -fPIC   -o CMakeFiles/layers.dir/plugins/inflation_layer.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/plugins/inflation_layer.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/plugins/inflation_layer.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/costmap_2d",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"costmap_2d\\\" -Dlayers_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test  -g -fPIC   -o CMakeFiles/layers.dir/plugins/obstacle_layer.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/plugins/obstacle_layer.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/plugins/obstacle_layer.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/costmap_2d",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"costmap_2d\\\" -Dlayers_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test  -g -fPIC   -o CMakeFiles/layers.dir/plugins/static_layer.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/plugins/static_layer.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/plugins/static_layer.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/costmap_2d",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"costmap_2d\\\" -Dlayers_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test  -g -fPIC   -o CMakeFiles/layers.dir/plugins/voxel_layer.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/plugins/voxel_layer.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/plugins/voxel_layer.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/costmap_2d",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"costmap_2d\\\" -Dlayers_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test  -g -fPIC   -o CMakeFiles/layers.dir/src/observation_buffer.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/observation_buffer.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/observation_buffer.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/costmap_2d",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"costmap_2d\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test  -g   -o CMakeFiles/costmap_2d_cloud.dir/src/costmap_2d_cloud.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/costmap_2d_cloud.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/costmap_2d_cloud.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/costmap_2d",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"costmap_2d\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test  -g   -o CMakeFiles/costmap_2d_markers.dir/src/costmap_2d_markers.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/costmap_2d_markers.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/src/costmap_2d_markers.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/costmap_2d",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"costmap_2d\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/footprint_tests.dir/test/footprint_tests.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test/footprint_tests.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/test/footprint_tests.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/line_iterator.dir/test/line_iterator_test.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/test/line_iterator_test.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/test/line_iterator_test.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/base_local_planner_utest.dir/test/gtest_main.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/test/gtest_main.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/test/gtest_main.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/base_local_planner_utest.dir/test/utest.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/test/utest.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/test/utest.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/base_local_planner_utest.dir/test/velocity_iterator_test.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/test/velocity_iterator_test.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/test/velocity_iterator_test.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/base_local_planner_utest.dir/test/footprint_helper_test.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/test/footprint_helper_test.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/test/footprint_helper_test.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/base_local_planner_utest.dir/test/trajectory_generator_test.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/test/trajectory_generator_test.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/test/trajectory_generator_test.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/base_local_planner_utest.dir/test/map_grid_test.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/test/map_grid_test.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/test/map_grid_test.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g   -o CMakeFiles/point_grid.dir/src/point_grid_node.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/point_grid_node.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/point_grid_node.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -Dbase_local_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/base_local_planner.dir/src/footprint_helper.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/footprint_helper.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/footprint_helper.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -Dbase_local_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/base_local_planner.dir/src/goal_functions.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/goal_functions.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/goal_functions.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -Dbase_local_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/base_local_planner.dir/src/map_cell.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/map_cell.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/map_cell.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -Dbase_local_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/base_local_planner.dir/src/map_grid.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/map_grid.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/map_grid.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -Dbase_local_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/base_local_planner.dir/src/map_grid_visualizer.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/map_grid_visualizer.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/map_grid_visualizer.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -Dbase_local_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/base_local_planner.dir/src/map_grid_cost_function.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/map_grid_cost_function.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/map_grid_cost_function.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -Dbase_local_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/base_local_planner.dir/src/latched_stop_rotate_controller.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/latched_stop_rotate_controller.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/latched_stop_rotate_controller.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -Dbase_local_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/base_local_planner.dir/src/local_planner_util.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/local_planner_util.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/local_planner_util.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -Dbase_local_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/base_local_planner.dir/src/odometry_helper_ros.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/odometry_helper_ros.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/odometry_helper_ros.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -Dbase_local_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/base_local_planner.dir/src/obstacle_cost_function.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/obstacle_cost_function.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/obstacle_cost_function.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -Dbase_local_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/base_local_planner.dir/src/oscillation_cost_function.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/oscillation_cost_function.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/oscillation_cost_function.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -Dbase_local_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/base_local_planner.dir/src/prefer_forward_cost_function.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/prefer_forward_cost_function.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/prefer_forward_cost_function.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -Dbase_local_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/base_local_planner.dir/src/point_grid.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/point_grid.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/point_grid.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -Dbase_local_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/base_local_planner.dir/src/costmap_model.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/costmap_model.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/costmap_model.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -Dbase_local_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/base_local_planner.dir/src/simple_scored_sampling_planner.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/simple_scored_sampling_planner.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/simple_scored_sampling_planner.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -Dbase_local_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/base_local_planner.dir/src/simple_trajectory_generator.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/simple_trajectory_generator.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/simple_trajectory_generator.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -Dbase_local_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/base_local_planner.dir/src/trajectory.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/trajectory.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/trajectory.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -Dbase_local_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/base_local_planner.dir/src/twirling_cost_function.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/twirling_cost_function.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/twirling_cost_function.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -Dbase_local_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/base_local_planner.dir/src/voxel_grid_model.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/voxel_grid_model.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/voxel_grid_model.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -Dtrajectory_planner_ros_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/trajectory_planner_ros.dir/src/trajectory_planner.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/trajectory_planner.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/trajectory_planner.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/base_local_planner",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"base_local_planner\\\" -Dtrajectory_planner_ros_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/trajectory_planner_ros.dir/src/trajectory_planner_ros.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/trajectory_planner_ros.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/src/trajectory_planner_ros.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/carrot_planner",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"carrot_planner\\\" -Dcarrot_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/navigation-melodic/carrot_planner/include -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/carrot_planner.dir/src/carrot_planner.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/carrot_planner/src/carrot_planner.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/carrot_planner/src/carrot_planner.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/clear_costmap_recovery",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"clear_costmap_recovery\\\" -I/home/ros/Code/Demo_ws/src/navigation-melodic/clear_costmap_recovery/include -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/clear_costmap_recovery/test -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/clear_tester.dir/test/clear_tester.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/clear_costmap_recovery/test/clear_tester.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/clear_costmap_recovery/test/clear_tester.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/clear_costmap_recovery",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"clear_costmap_recovery\\\" -Dclear_costmap_recovery_EXPORTS -I/home/ros/Code/Demo_ws/src/navigation-melodic/clear_costmap_recovery/include -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/home/ros/Code/Demo_ws/src/navigation-melodic/clear_costmap_recovery/test  -g -fPIC   -o CMakeFiles/clear_costmap_recovery.dir/src/clear_costmap_recovery.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/clear_costmap_recovery/src/clear_costmap_recovery.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/clear_costmap_recovery/src/clear_costmap_recovery.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/dwa_local_planner",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"dwa_local_planner\\\" -Ddwa_local_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/dwa_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/dwa_local_planner.dir/src/dwa_planner.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/dwa_local_planner/src/dwa_planner.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/dwa_local_planner/src/dwa_planner.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/dwa_local_planner",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"dwa_local_planner\\\" -Ddwa_local_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/dwa_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/dwa_local_planner.dir/src/dwa_planner_ros.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/dwa_local_planner/src/dwa_planner_ros.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/dwa_local_planner/src/dwa_planner_ros.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/move_slow_and_clear",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"move_slow_and_clear\\\" -Dmove_slow_and_clear_EXPORTS -I/home/ros/Code/Demo_ws/src/navigation-melodic/move_slow_and_clear/include -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/move_slow_and_clear.dir/src/move_slow_and_clear.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/move_slow_and_clear/src/move_slow_and_clear.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/move_slow_and_clear/src/move_slow_and_clear.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/navfn",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"navfn\\\" -Dnavfn_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/navfn/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/navfn.dir/src/navfn.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/navfn/src/navfn.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/navfn/src/navfn.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/navfn",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"navfn\\\" -Dnavfn_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/navfn/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/navfn.dir/src/navfn_ros.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/navfn/src/navfn_ros.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/navfn/src/navfn_ros.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/navfn",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"navfn\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/navfn/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g   -o CMakeFiles/navfn_node.dir/src/navfn_node.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/navfn/src/navfn_node.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/navfn/src/navfn_node.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/navfn/test",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"navfn\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/navfn/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/path_calc_test.dir/path_calc_test.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/navfn/test/path_calc_test.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/navfn/test/path_calc_test.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/navfn/test",
+  "command": "/usr/bin/g++  -DHAVE_SYS_TIME_H -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"navfn\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/navfn/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/path_calc_test.dir/__/src/read_pgm_costmap.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/navfn/src/read_pgm_costmap.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/navfn/src/read_pgm_costmap.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/global_planner",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"global_planner\\\" -Dglobal_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/global_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/navfn/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/global_planner.dir/src/quadratic_calculator.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/global_planner/src/quadratic_calculator.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/global_planner/src/quadratic_calculator.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/global_planner",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"global_planner\\\" -Dglobal_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/global_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/navfn/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/global_planner.dir/src/dijkstra.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/global_planner/src/dijkstra.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/global_planner/src/dijkstra.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/global_planner",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"global_planner\\\" -Dglobal_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/global_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/navfn/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/global_planner.dir/src/astar.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/global_planner/src/astar.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/global_planner/src/astar.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/global_planner",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"global_planner\\\" -Dglobal_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/global_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/navfn/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/global_planner.dir/src/grid_path.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/global_planner/src/grid_path.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/global_planner/src/grid_path.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/global_planner",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"global_planner\\\" -Dglobal_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/global_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/navfn/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/global_planner.dir/src/gradient_path.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/global_planner/src/gradient_path.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/global_planner/src/gradient_path.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/global_planner",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"global_planner\\\" -Dglobal_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/global_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/navfn/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/global_planner.dir/src/orientation_filter.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/global_planner/src/orientation_filter.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/global_planner/src/orientation_filter.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/global_planner",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"global_planner\\\" -Dglobal_planner_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/global_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/navfn/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/global_planner.dir/src/planner_core.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/global_planner/src/planner_core.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/global_planner/src/planner_core.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/global_planner",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"global_planner\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/global_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/navfn/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g   -o CMakeFiles/planner.dir/src/plan_node.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/global_planner/src/plan_node.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/global_planner/src/plan_node.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/rotate_recovery",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rotate_recovery\\\" -Drotate_recovery_EXPORTS -I/home/ros/Code/Demo_ws/src/navigation-melodic/rotate_recovery/include -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/rotate_recovery.dir/src/rotate_recovery.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/rotate_recovery/src/rotate_recovery.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/rotate_recovery/src/rotate_recovery.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/move_base",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"move_base\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/move_base/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/clear_costmap_recovery/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/navfn/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/rotate_recovery/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g   -o CMakeFiles/move_base_node.dir/src/move_base_node.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/move_base/src/move_base_node.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/move_base/src/move_base_node.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/navigation-melodic/move_base",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"move_base\\\" -Dmove_base_EXPORTS -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/move_base/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/clear_costmap_recovery/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/navfn/include -I/home/ros/Code/Demo_ws/src/navigation-melodic/rotate_recovery/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/move_base.dir/src/move_base.cpp.o -c /home/ros/Code/Demo_ws/src/navigation-melodic/move_base/src/move_base.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/navigation-melodic/move_base/src/move_base.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/teb_local_planner-melodic-devel",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"teb_local_planner\\\" -isystem /home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/include -isystem /usr/include/suitesparse -isystem /opt/ros/melodic/include/g2o -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -isystem /opt/ros/melodic/include -isystem /opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /opt/ros/melodic/share/orocos_kdl/cmake/../../../include -isystem /usr/include/eigen3   -std=c++11 -O3 -DNDEBUG   -o CMakeFiles/test_optim_node.dir/src/test_optim_node.cpp.o -c /home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/src/test_optim_node.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/src/test_optim_node.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/teb_local_planner-melodic-devel",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"teb_local_planner\\\" -Dteb_local_planner_EXPORTS -isystem /home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/include -isystem /usr/include/suitesparse -isystem /opt/ros/melodic/include/g2o -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -isystem /opt/ros/melodic/include -isystem /opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /opt/ros/melodic/share/orocos_kdl/cmake/../../../include -isystem /usr/include/eigen3   -std=c++11 -O3 -DNDEBUG -fPIC   -o CMakeFiles/teb_local_planner.dir/src/timed_elastic_band.cpp.o -c /home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/src/timed_elastic_band.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/src/timed_elastic_band.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/teb_local_planner-melodic-devel",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"teb_local_planner\\\" -Dteb_local_planner_EXPORTS -isystem /home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/include -isystem /usr/include/suitesparse -isystem /opt/ros/melodic/include/g2o -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -isystem /opt/ros/melodic/include -isystem /opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /opt/ros/melodic/share/orocos_kdl/cmake/../../../include -isystem /usr/include/eigen3   -std=c++11 -O3 -DNDEBUG -fPIC   -o CMakeFiles/teb_local_planner.dir/src/optimal_planner.cpp.o -c /home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/src/optimal_planner.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/src/optimal_planner.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/teb_local_planner-melodic-devel",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"teb_local_planner\\\" -Dteb_local_planner_EXPORTS -isystem /home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/include -isystem /usr/include/suitesparse -isystem /opt/ros/melodic/include/g2o -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -isystem /opt/ros/melodic/include -isystem /opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /opt/ros/melodic/share/orocos_kdl/cmake/../../../include -isystem /usr/include/eigen3   -std=c++11 -O3 -DNDEBUG -fPIC   -o CMakeFiles/teb_local_planner.dir/src/obstacles.cpp.o -c /home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/src/obstacles.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/src/obstacles.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/teb_local_planner-melodic-devel",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"teb_local_planner\\\" -Dteb_local_planner_EXPORTS -isystem /home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/include -isystem /usr/include/suitesparse -isystem /opt/ros/melodic/include/g2o -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -isystem /opt/ros/melodic/include -isystem /opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /opt/ros/melodic/share/orocos_kdl/cmake/../../../include -isystem /usr/include/eigen3   -std=c++11 -O3 -DNDEBUG -fPIC   -o CMakeFiles/teb_local_planner.dir/src/visualization.cpp.o -c /home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/src/visualization.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/src/visualization.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/teb_local_planner-melodic-devel",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"teb_local_planner\\\" -Dteb_local_planner_EXPORTS -isystem /home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/include -isystem /usr/include/suitesparse -isystem /opt/ros/melodic/include/g2o -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -isystem /opt/ros/melodic/include -isystem /opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /opt/ros/melodic/share/orocos_kdl/cmake/../../../include -isystem /usr/include/eigen3   -std=c++11 -O3 -DNDEBUG -fPIC   -o CMakeFiles/teb_local_planner.dir/src/recovery_behaviors.cpp.o -c /home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/src/recovery_behaviors.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/src/recovery_behaviors.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/teb_local_planner-melodic-devel",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"teb_local_planner\\\" -Dteb_local_planner_EXPORTS -isystem /home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/include -isystem /usr/include/suitesparse -isystem /opt/ros/melodic/include/g2o -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -isystem /opt/ros/melodic/include -isystem /opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /opt/ros/melodic/share/orocos_kdl/cmake/../../../include -isystem /usr/include/eigen3   -std=c++11 -O3 -DNDEBUG -fPIC   -o CMakeFiles/teb_local_planner.dir/src/teb_config.cpp.o -c /home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/src/teb_config.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/src/teb_config.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/teb_local_planner-melodic-devel",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"teb_local_planner\\\" -Dteb_local_planner_EXPORTS -isystem /home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/include -isystem /usr/include/suitesparse -isystem /opt/ros/melodic/include/g2o -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -isystem /opt/ros/melodic/include -isystem /opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /opt/ros/melodic/share/orocos_kdl/cmake/../../../include -isystem /usr/include/eigen3   -std=c++11 -O3 -DNDEBUG -fPIC   -o CMakeFiles/teb_local_planner.dir/src/homotopy_class_planner.cpp.o -c /home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/src/homotopy_class_planner.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/src/homotopy_class_planner.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/teb_local_planner-melodic-devel",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"teb_local_planner\\\" -Dteb_local_planner_EXPORTS -isystem /home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/include -isystem /usr/include/suitesparse -isystem /opt/ros/melodic/include/g2o -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -isystem /opt/ros/melodic/include -isystem /opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /opt/ros/melodic/share/orocos_kdl/cmake/../../../include -isystem /usr/include/eigen3   -std=c++11 -O3 -DNDEBUG -fPIC   -o CMakeFiles/teb_local_planner.dir/src/teb_local_planner_ros.cpp.o -c /home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/src/teb_local_planner_ros.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/src/teb_local_planner_ros.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/teb_local_planner-melodic-devel",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"teb_local_planner\\\" -Dteb_local_planner_EXPORTS -isystem /home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/include -isystem /usr/include/suitesparse -isystem /opt/ros/melodic/include/g2o -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -isystem /opt/ros/melodic/include -isystem /opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /opt/ros/melodic/share/orocos_kdl/cmake/../../../include -isystem /usr/include/eigen3   -std=c++11 -O3 -DNDEBUG -fPIC   -o CMakeFiles/teb_local_planner.dir/src/graph_search.cpp.o -c /home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/src/graph_search.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/src/graph_search.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/teb_local_planner-melodic-devel",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"teb_local_planner\\\" -isystem /home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/include -isystem /usr/include/suitesparse -isystem /opt/ros/melodic/include/g2o -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/base_local_planner/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/costmap_2d/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/voxel_grid/include -isystem /home/ros/Code/Demo_ws/src/navigation-melodic/nav_core/include -isystem /opt/ros/melodic/include -isystem /opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /opt/ros/melodic/share/orocos_kdl/cmake/../../../include -isystem /usr/include/eigen3 -I/usr/src/googletest/googletest/include   -std=c++11 -O3 -DNDEBUG   -o CMakeFiles/test_teb_basics.dir/test/teb_basics.cpp.o -c /home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/test/teb_basics.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/teb_local_planner-melodic-devel/test/teb_basics.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/web_video_server",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"web_video_server\\\" -I/home/ros/Code/Demo_ws/src/web_video_server/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv -I/usr/include/x86_64-linux-gnu  -g   -o CMakeFiles/web_video_server.dir/src/web_video_server.cpp.o -c /home/ros/Code/Demo_ws/src/web_video_server/src/web_video_server.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/web_video_server/src/web_video_server.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/web_video_server",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"web_video_server\\\" -I/home/ros/Code/Demo_ws/src/web_video_server/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv -I/usr/include/x86_64-linux-gnu  -g   -o CMakeFiles/web_video_server.dir/src/image_streamer.cpp.o -c /home/ros/Code/Demo_ws/src/web_video_server/src/image_streamer.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/web_video_server/src/image_streamer.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/web_video_server",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"web_video_server\\\" -I/home/ros/Code/Demo_ws/src/web_video_server/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv -I/usr/include/x86_64-linux-gnu  -g   -o CMakeFiles/web_video_server.dir/src/libav_streamer.cpp.o -c /home/ros/Code/Demo_ws/src/web_video_server/src/libav_streamer.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/web_video_server/src/libav_streamer.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/web_video_server",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"web_video_server\\\" -I/home/ros/Code/Demo_ws/src/web_video_server/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv -I/usr/include/x86_64-linux-gnu  -g   -o CMakeFiles/web_video_server.dir/src/vp8_streamer.cpp.o -c /home/ros/Code/Demo_ws/src/web_video_server/src/vp8_streamer.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/web_video_server/src/vp8_streamer.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/web_video_server",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"web_video_server\\\" -I/home/ros/Code/Demo_ws/src/web_video_server/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv -I/usr/include/x86_64-linux-gnu  -g   -o CMakeFiles/web_video_server.dir/src/h264_streamer.cpp.o -c /home/ros/Code/Demo_ws/src/web_video_server/src/h264_streamer.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/web_video_server/src/h264_streamer.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/web_video_server",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"web_video_server\\\" -I/home/ros/Code/Demo_ws/src/web_video_server/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv -I/usr/include/x86_64-linux-gnu  -g   -o CMakeFiles/web_video_server.dir/src/vp9_streamer.cpp.o -c /home/ros/Code/Demo_ws/src/web_video_server/src/vp9_streamer.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/web_video_server/src/vp9_streamer.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/web_video_server",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"web_video_server\\\" -I/home/ros/Code/Demo_ws/src/web_video_server/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv -I/usr/include/x86_64-linux-gnu  -g   -o CMakeFiles/web_video_server.dir/src/multipart_stream.cpp.o -c /home/ros/Code/Demo_ws/src/web_video_server/src/multipart_stream.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/web_video_server/src/multipart_stream.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/web_video_server",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"web_video_server\\\" -I/home/ros/Code/Demo_ws/src/web_video_server/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv -I/usr/include/x86_64-linux-gnu  -g   -o CMakeFiles/web_video_server.dir/src/ros_compressed_streamer.cpp.o -c /home/ros/Code/Demo_ws/src/web_video_server/src/ros_compressed_streamer.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/web_video_server/src/ros_compressed_streamer.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/web_video_server",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"web_video_server\\\" -I/home/ros/Code/Demo_ws/src/web_video_server/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv -I/usr/include/x86_64-linux-gnu  -g   -o CMakeFiles/web_video_server.dir/src/jpeg_streamers.cpp.o -c /home/ros/Code/Demo_ws/src/web_video_server/src/jpeg_streamers.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/web_video_server/src/jpeg_streamers.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/web_video_server",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"web_video_server\\\" -I/home/ros/Code/Demo_ws/src/web_video_server/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv -I/usr/include/x86_64-linux-gnu  -g   -o CMakeFiles/web_video_server.dir/src/png_streamers.cpp.o -c /home/ros/Code/Demo_ws/src/web_video_server/src/png_streamers.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/web_video_server/src/png_streamers.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/wheeltec_joy_control",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"wheeltec_joy\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/joy_node.dir/src/joy_node.cpp.o -c /home/ros/Code/Demo_ws/src/wheeltec_joy_control/src/joy_node.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/wheeltec_joy_control/src/joy_node.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/wheeltec_joy_control",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"wheeltec_joy\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/joycontrol.dir/src/control.cpp.o -c /home/ros/Code/Demo_ws/src/wheeltec_joy_control/src/control.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/wheeltec_joy_control/src/control.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/wheeltec_multi",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"wheeltec_multi\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/wheeltec_multi/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/ros/Code/Demo_ws/src/wheeltec_multi/include/wheeltec_multi  -g   -g -std=c++11 -o CMakeFiles/multi_avoidance.dir/src/multi_avoidance.cpp.o -c /home/ros/Code/Demo_ws/src/wheeltec_multi/src/multi_avoidance.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/wheeltec_multi/src/multi_avoidance.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/wheeltec_multi",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"wheeltec_multi\\\" -I/home/ros/Code/Demo_ws/src/build/devel/include -I/home/ros/Code/Demo_ws/src/wheeltec_multi/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/ros/Code/Demo_ws/src/wheeltec_multi/include/wheeltec_multi  -g   -g -std=c++11 -o CMakeFiles/slave_tf_listener.dir/src/slave_tf_listener.cpp.o -c /home/ros/Code/Demo_ws/src/wheeltec_multi/src/slave_tf_listener.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/wheeltec_multi/src/slave_tf_listener.cpp"
+},
+{
+  "directory": "/home/ros/Code/Demo_ws/src/build/wheeltec_robot_rc",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"wheeltec_robot_rc\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/turtlebot_teleop_joy.dir/src/turtlebot_joy.cpp.o -c /home/ros/Code/Demo_ws/src/wheeltec_robot_rc/src/turtlebot_joy.cpp",
+  "file": "/home/ros/Code/Demo_ws/src/wheeltec_robot_rc/src/turtlebot_joy.cpp"
+}
+]
